@@ -14,3 +14,4 @@ title: Wechaty Docs Index
 - [API](api/)
 - [FAQ](faq/)
 - [Troubleshooting](troubleshooting)
+Ty
